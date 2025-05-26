@@ -1,6 +1,6 @@
 <p align="center">
-  <a href="https://ik.imagekit.io/x7q05jeox/clip.mp4?tr=orig&updatedAt=1748264073054">
-    <img src="https://imgur.com/a/yourThumbnail.png" width="75%" alt="Click to watch demo">
+  <a href="https://ik.imagekit.io/x7q05jeox/clip.mp4?tr=orig&updatedAt=1748264073054" target="_blank">
+    <img src="https://img.icons8.com/clouds/500/video-playlist.png" width="200" alt="Click to watch the demo video"/>
   </a>
 </p>
 
