@@ -19,12 +19,11 @@
 
 <p align="center">
   <video width="75%" controls autoplay muted loop>
-    <source src="[clip.mp4](https://imagekit.io/public/share/x7q05jeox/b5819518ef0ad59c61abd0a820e8ce2e3da0807a6f555ed8a763de4db00851ec767e445e00724f9729bd6301f46eaa7e832d71cf1f33aad07acf1697bd4178ceec110d1cb73368047764ebc7510e5375)" type="video/mp4">
+    <source src="https://imagekit.io/public/share/x7q05jeox/b5819518ef0ad59c61abd0a820e8ce2e3da0807a6f555ed8a763de4db00851ec767e445e00724f9729bd6301f46eaa7e832d71cf1f33aad07acf1697bd4178ceec110d1cb73368047764ebc7510e5375" type="video/mp4">
     Your browser does not support the video tag.
   </video>
 </p>
 
-> ⚠️ Don't see anything? Replace this link with your own GIF for better showcasing.
 
 ---
 
