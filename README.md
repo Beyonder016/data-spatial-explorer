@@ -1,10 +1,9 @@
 <p align="center">
-  <img src="https://img.shields.io/badge/Live%20App-Click%20to%20Launch-blueviolet?style=for-the-badge&logo=streamlit" alt="Live App Badge"/>
-  <br>
-  <a href="https://beyonder016-data-spatial-explorer.streamlit.app/">
-    👉 <strong>Launch DataSpatial Explorer Now</strong>
+  <a href="https://ik.imagekit.io/x7q05jeox/clip.mp4?tr=orig&updatedAt=1748264073054">
+    <img src="https://imgur.com/a/yourThumbnail.png" width="75%" alt="Click to watch demo">
   </a>
 </p>
+
 
 <h1 align="center">🧠 DataSpatial Explorer – Signal Mesh Simulation</h1>
 
