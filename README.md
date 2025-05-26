@@ -1,9 +1,10 @@
 <p align="center">
-  <a href="https://ik.imagekit.io/x7q05jeox/clip.mp4?tr=orig&updatedAt=1748264073054" target="_blank">
-    <img src="https://img.icons8.com/clouds/500/video-playlist.png" width="200" alt="Click to watch the demo video"/>
+  <img src="https://img.shields.io/badge/Live%20App-Click%20to%20Launch-blueviolet?style=for-the-badge&logo=streamlit" alt="Live App Badge"/>
+  <br>
+  <a href="https://beyonder016-data-spatial-explorer.streamlit.app/">
+    👉 <strong>Launch DataSpatial Explorer Now</strong>
   </a>
 </p>
-
 
 <h1 align="center">🧠 DataSpatial Explorer – Signal Mesh Simulation</h1>
 
@@ -17,13 +18,10 @@
 ## 🎥 Demo Preview
 
 <p align="center">
-  <video width="75%" controls autoplay muted loop>
-    <source src="https://ik.imagekit.io/x7q05jeox/clip.mp4?tr=orig&updatedAt=1748264073054" type="video/mp4">
-    Your browser does not support the video tag.
-  </video>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmNjcTljZXB2dW55cjdvNXQxYWJoa2lpZ3FuOWp1bWd1MGp3bGgyaCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3o6ZsXK9gbFstpH2Vi/giphy.gif" alt="demo gif" width="75%">
 </p>
 
-> 🎬 This short demo shows how the simulation behaves with real-time interactions and signal logic.
+> ⚠️ Don't see anything? Replace this link with your own GIF for better showcasing.
 
 ---
 
