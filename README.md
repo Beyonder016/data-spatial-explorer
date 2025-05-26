@@ -18,10 +18,12 @@
 ## 🎥 Demo Preview
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmNjcTljZXB2dW55cjdvNXQxYWJoa2lpZ3FuOWp1bWd1MGp3bGgyaCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3o6ZsXK9gbFstpH2Vi/giphy.gif" alt="demo gif" width="75%">
+  <a href="https://ik.imagekit.io/x7q05jeox/clip.mp4?tr=orig&updatedAt=1748264073054" target="_blank">
+    <img src="https://img.icons8.com/clouds/500/video-playlist.png" width="200" alt="Click to watch the demo video"/>
+  </a>
 </p>
 
-> ⚠️ Don't see anything? Replace this link with your own GIF for better showcasing.
+> 📽️ Click the image above to watch the video demo of the simulation in action.
 
 ---
 
