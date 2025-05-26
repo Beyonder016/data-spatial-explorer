@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Live%20App-Click%20to%20Launch-blueviolet?style=for-the-badge&logo=streamlit" alt="Live App Badge"/>
   <br>
-  <a href="https://beyonder016-data-spatial-explorer.streamlit.app/">
+  <a href="https://data-spatial-explorer-znpxcvd3rxqjqxzkxr23w9.streamlit.app/">
     👉 <strong>Launch DataSpatial Explorer Now</strong>
   </a>
 </p>
